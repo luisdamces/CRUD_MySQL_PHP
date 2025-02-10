@@ -6,6 +6,7 @@
     <title>Resumen CRUD MySQL & PHP</title>
 </head>
 <body>
+    <h1>REPASO CRUD MYSQL PHP</h1>
     <?php
         //CONEXIÓN
         $conexion = mysqli_connect("localhost", "root", "", "accesodatos") or
